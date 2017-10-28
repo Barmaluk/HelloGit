@@ -10,6 +10,7 @@ public class HelloGitTest {
 	public void test() {
 		HelloGit hg = new HelloGit();
 		assertEquals("Hello Git!", hg.getMessage());
+		// poatoa
 	}
 
 }
